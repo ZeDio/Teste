@@ -100,7 +100,7 @@ window.onload = () => {
     const apres = [{
       classe : "apreJD",
       h2 : "Ola!!",
-      p : "Eu me chamo José Diogo, sou um progamador Front End e Desingner. Tenho 16 anos, tenho algumas esperiencias com progamação, e esperiencia como garçom. Estou no 3° ano do encisinio medio tecnico :D"
+      p : "Eu me chamo José Diogo, sou um programador Front End e Designer. Tenho 16 anos, tenho algumas esperiencias com programação, e experiência como garçom. Estou no 3° ano do ensino médio técnico :D"
 
     },
     {
