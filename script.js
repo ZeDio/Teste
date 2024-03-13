@@ -100,13 +100,13 @@ window.onload = () => {
     const apres = [{
       classe : "apreJD",
       h2 : "Ola!!",
-      p : "Eu me chamo José Diogo, sou um programador Front End e Designer. Tenho 16 anos, tenho algumas esperiencias com programação, e experiência como garçom. Estou no 3° ano do ensino médio técnico :D"
+      p : "Eu me chamo José Diogo, sou um programador Front End e Designer. Tenho 16 anos, tenho algumas experiência com programação, e experiência como garçom. Estou no 3° ano do ensino médio técnico :D"
 
     },
     {
       classe : "apreDL" ,
       h2 : "Oii",
-      p : "Eu me chamo Diego Leite, diferente do meu amigo a cima front end, sou mais da area de back end, sei progamar mais em JS e C#.."
+      p : "Eu me chamo Diego Leite, diferente do meu amigo acima front end, sou mais da area de back end, sei progamar mais em JS e C#.."
     }]
     const main = document.querySelector("main")
     const section = document.createElement("section");
